@@ -1,5 +1,5 @@
 # Megruo.LYAHFGG
-「すごいH本」をゆるく読む読書会。
+「すごいH本」をゆるく読む読書会。
 
 # 教材
 無料なので原書のオンライン版を使用する。
@@ -15,10 +15,10 @@
 ## 進め方
 回の担当者を決め、担当者が教材を読み上げながら、メンバー間で理解・質疑を行う。（60分目安）
 
-# Haskell（Macの場合）導入方法
-## Stackを使ってインストールする場合
+## Haskell（Macの場合）導入方法
+### Stackを使ってインストールする場合
 ```bash
-brew install haskell-stack
+brew install haskell-stack
 stack setup
 
 # ghciを起動
