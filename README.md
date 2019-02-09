@@ -3,6 +3,7 @@
 
 # 教材
 無料なので原書のオンライン版を使用する。
+
 [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
 
 # 開催方法
@@ -29,4 +30,6 @@ stack ghc -- --make hoge.hs
 ```
 
 # 開催予定
+| 回   | 開催日 |
+| -----| ----------- |
 | 第1回 | 2019.0?.?? | 
