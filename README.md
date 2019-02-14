@@ -7,8 +7,14 @@
 [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
 
 # 開催方法
+## イベント管理者
+- [@meganehouser](https://twitter.com/meganehouser)
+- [@nnm_tech](https://twitter.com/nnm_tech)
+
 ## 場所
-目黒駅周辺の無料Wi-Fiのあるカフェ等
+目黒駅周辺のスペース
+- 管理者所属企業の会議室
+- 無料Wi-Fiのあるカフェ等
 
 ## 開催頻度
 月1回程度
@@ -30,6 +36,6 @@ stack ghc -- --make hoge.hs
 ```
 
 # 開催予定
-| 回   | 開催日 |
-| -----| ----------- |
-| 第1回 | 2019.0?.?? | 
+| 回   | 開催日 | 担当者 |
+| -----| ----------- | ---- |
+| 第1回 | 2019.03.?? | @nnm_tech |
